@@ -1,0 +1,11 @@
+C:\Users\jdarling\Documents\Personal Projects\GoSql_DAL\GoSqlApi\GoSqlApi\bin\Debug\netcoreapp2.0\GoSqlApi.deps.json
+C:\Users\jdarling\Documents\Personal Projects\GoSql_DAL\GoSqlApi\GoSqlApi\bin\Debug\netcoreapp2.0\GoSqlApi.runtimeconfig.json
+C:\Users\jdarling\Documents\Personal Projects\GoSql_DAL\GoSqlApi\GoSqlApi\bin\Debug\netcoreapp2.0\GoSqlApi.runtimeconfig.dev.json
+C:\Users\jdarling\Documents\Personal Projects\GoSql_DAL\GoSqlApi\GoSqlApi\bin\Debug\netcoreapp2.0\GoSqlApi.dll
+C:\Users\jdarling\Documents\Personal Projects\GoSql_DAL\GoSqlApi\GoSqlApi\bin\Debug\netcoreapp2.0\GoSqlApi.pdb
+C:\Users\jdarling\Documents\Personal Projects\GoSql_DAL\GoSqlApi\GoSqlApi\obj\Debug\netcoreapp2.0\GoSqlApi.csprojAssemblyReference.cache
+C:\Users\jdarling\Documents\Personal Projects\GoSql_DAL\GoSqlApi\GoSqlApi\obj\Debug\netcoreapp2.0\GoSqlApi.csproj.CoreCompileInputs.cache
+C:\Users\jdarling\Documents\Personal Projects\GoSql_DAL\GoSqlApi\GoSqlApi\obj\Debug\netcoreapp2.0\GoSqlApi.AssemblyInfoInputs.cache
+C:\Users\jdarling\Documents\Personal Projects\GoSql_DAL\GoSqlApi\GoSqlApi\obj\Debug\netcoreapp2.0\GoSqlApi.AssemblyInfo.cs
+C:\Users\jdarling\Documents\Personal Projects\GoSql_DAL\GoSqlApi\GoSqlApi\obj\Debug\netcoreapp2.0\GoSqlApi.dll
+C:\Users\jdarling\Documents\Personal Projects\GoSql_DAL\GoSqlApi\GoSqlApi\obj\Debug\netcoreapp2.0\GoSqlApi.pdb
